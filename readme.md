@@ -14,6 +14,8 @@
 
 ## Домашние задания
 
+<a href="./конспекты/ДЗ/gosts19_34.md">Анализ конкурентов. SWOT-анализ. Тема: сервер minecraft</a>
+
 <a href="./конспекты/ДЗ/analyze_competitors.md">Анализ конкурентов. SWOT-анализ. Тема: сервер minecraft</a>
 
 <a href="./доклады/HTTP_cycle/readme.md">Доклад по жизненному циклу HTTP-запроса</a>
